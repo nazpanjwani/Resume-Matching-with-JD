@@ -1,0 +1,35 @@
+Job summary
+We are looking for a <a href="https://100hires.com/front-end-developer-job-description.html">Front End Developer</a>
+who can develop effective user interfaces on the company website and mobile apps released to the public and Windows
+applications for internal or our customers' use. The successful candidate will work closely with other software developers
+to design or update the front end of our various applications and make them more efficient and maintain consistency
+across them. The <a href="https://100hires.com/front-end-developer-job-description.html">Front End Developer</a> will
+also be responsible for creating innovative solutions to front end issues to help make our applications more visually
+appealing and enhance usability.
+
+Responsibilities
+Determine the structure and design of our front end applications on various devices including mobile devices
+Design a framework for creating user apps that grows with the needs of the company
+Utilize a variety of markup languages to write web pages and mobile app pages
+Implement responsible web design principles to ensure that our company website renders well across multiple devices
+Develop features to enhance the user experience
+Monitor website performance, watch for site usability problems and rectify the issues
+Build reusable code for future use and shared among the front end applications.
+Optimize web pages and mobile pages for maximum speed and scalability
+Maintain brand consistency throughout design
+Assist in the development of applications and features that will be put on the website and in internal functions as well
+
+Requirements
+3+ years' hands-on web development experience required.
+2+ years' hands-on mobile app development experience required.
+2+ years' hands-on Windows application development experience required.
+Strong experience in one or more of the programming languages: C#, Java, AngularJS, NodeJS, Python, PHP, etc.,
+preferably C#.
+Strong experience in OOP.
+Strong experience in most of these technologies: MVC, MVVM, Xamarin, WinForm, WPF, etc.
+Proficiency with HTML, CSS, JavaScript, jQuery, and bootstrap; Understanding of server-side CSS.
+Experience with graphic design applications such as Adobe Illustrator.
+Experience with responsive and adaptive design.
+Keen on putting ideas into programming codes.
+Good problem solving skills.
+

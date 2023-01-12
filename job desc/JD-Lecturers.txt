@@ -1,0 +1,40 @@
+
+Lecturer in Computer Systems and Networks (Ref CES13-13)
+Faculty of Computing, Engineering and Sciences
+
+To contribute to the development, delivery, and research profile of academic provision in computer systems and 
+computer networks and related disciplines including associated academic operational responsibilities as required.
+
+To teach and assess, as part of a teaching team, in the areas of knowledge appropriate to the aims of the 
+provision within the Faculty of Computing, Engineering and Sciences and where appropriate, across other 
+Faculties of the University.
+ To contribute to the development of specialist teaching and learning provision, including short courses, in 
+computer systems and computer networks and associated disciplines.
+ To devise and deliver modules as determined by the relevant academic manager and to ensure that learning 
+materials and methods of delivery meet defined learning objectives.
+ To undertake operational responsibilities associated with the delivery of academic provision, including the 
+leadership of modules/small awards, as directed by the relevant academic manager.
+ To enhance the quality of teaching provision and programme development, drawing on leading practices from 
+the HE and other sectors, and building e-learning into the delivery of teaching to students as appropriate.
+ To participate with other staff in the development of teaching, learning and assessment strategies.
+ To contribute to student support in administrative and pastoral roles, including availability to advise students 
+on resits and to provide post-results counselling during the summer period.
+ To represent both the award, the School and the Faculty in student recruitment activities, including 
+participation in Clearing activities during the summer period and in Open Days throughout the year.
+ To attend and contribute to Faculty and School meetings as required.
+ To contribute to the subject’s activities and reputation both internally and externally.
+ To exercise a high standard of research and scholarship both personally and as a member of a team, working 
+with colleagues to develop an inclusive, team-orientated approach to research activities
+
+Specific Responsibilities of the Post:
+It is expected that the post holder will actively engage in research in the areas of computer systems and/or 
+computer networks and will pursue opportunities to foster and lead research in the area.
+The post holder will be initially responsible for teaching and assessment:
+ In modules that cover generic computer networking, but also in modules that cover the Cisco syllabi for 
+Cisco professional certifications. While initially this may only be at CCNA level, in due course the post 
+holder will be expected to extend their expertise to cover other Cisco certifications especially those related 
+to network security, and also to related areas of computer and network security, such as penetration 
+testing and Ethical hacking.
+ In modules that cover computer hardware/architecture and generic computer systems (operating systems, 
+systems programming, peripheral interfacing, etc.). In due course, delivery covering certification syllabi in 
+Windows Server operating systems and in virtualisation, may be required.
